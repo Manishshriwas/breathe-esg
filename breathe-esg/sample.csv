@@ -1,0 +1,5 @@
+category,description,amount,unit
+Fuel,Diesel usage,500,litres
+Electricity,Office electricity,1200,kWh
+Travel,Flight booking,800,km
+Fuel,Negative fuel,-50,litres
