@@ -23,11 +23,11 @@ Password: admin123
 
 ## Frontend
 
-https://your-vercel-url.vercel.app
+[https://your-vercel-url.vercel.app](https://breathe-esg-steel.vercel.app/login)
 
 ## Backend
 
-https://breathe-esg-yfrx.onrender.com
+[https://breathe-esg-yfrx.onrender.com](https://breathe-esg-yfrx.onrender.com)
 
 ---
 
@@ -101,7 +101,7 @@ breathe-esg/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Manishshriwas/breathe-esg.git
+[git clone https://github.com/Manishshriwas/breathe-esg.git](https://github.com/Manishshriwas/breathe-esg.git)
 ```
 
 ---
