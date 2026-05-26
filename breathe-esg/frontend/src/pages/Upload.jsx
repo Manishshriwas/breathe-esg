@@ -26,7 +26,7 @@ function Upload() {
     try {
 
       const response = await axios.post(
-        "http://127.0.0.1:8000/api/upload/",
+        "https://breathe-esg-yfrx.onrender.com/api/upload/",
         formData
       );
 
